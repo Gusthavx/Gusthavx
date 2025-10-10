@@ -57,6 +57,14 @@ Me chamo Gusthavo da Silva Barreto, tenho 21 anos e sou de Feira de Santana - BA
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"     
 />
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
 
 <br/>
 <br/>
@@ -78,10 +86,5 @@ Me chamo Gusthavo da Silva Barreto, tenho 21 anos e sou de Feira de Santana - BA
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gusthavx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br" 
   />
-
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    
 </p>
