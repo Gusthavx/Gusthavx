@@ -1,0 +1,472 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="576" viewBox="0 0 1000 576" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif">
+<style>
+@media (prefers-reduced-motion: no-preference){
+ .c{opacity:0;animation:aparece .5s ease-out forwards}
+ .b{transform-box:fill-box;transform-origin:bottom;transform:scaleY(0);animation:cresce .7s cubic-bezier(.2,.8,.2,1) forwards}
+ .h{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:abre .8s cubic-bezier(.2,.8,.2,1) forwards}
+ .r{stroke-dasharray:0 999;animation:roda 1s ease-out forwards}
+}
+@keyframes aparece{to{opacity:1}} @keyframes cresce{to{transform:scaleY(1)}} @keyframes abre{to{transform:scaleX(1)}}
+</style>
+<rect width="1000" height="576" rx="18" fill="#ffffff"/>
+<text x="28" y="44" font-size="22" font-weight="700" fill="#111111">Gusthavo Silva<tspan fill="#ff5b24">.</tspan></text>
+<text x="28" y="64" font-size="13" fill="#6e6e73">Atividade no GitHub nos últimos 12 meses, repositórios privados incluídos</text>
+<text x="972" y="44" font-size="12" fill="#6e6e73" text-anchor="end">atualizado em 15/11/2026</text>
+<rect x="24" y="84" width="952" height="214" rx="14" fill="#f5f5f7"/>
+<text x="44" y="114" font-size="14" font-weight="600" fill="#111111">Commits por dia</text>
+<text x="956" y="114" font-size="13" fill="#6e6e73" text-anchor="end"><tspan fill="#111111" font-weight="600">1.290</tspan> commits · <tspan fill="#111111" font-weight="600">92</tspan> dias com commit · sequência atual <tspan fill="#ff5b24" font-weight="600">43 dias</tspan> · recorde 43</text>
+<rect class="c" style="animation-delay:0ms" x="76" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>16/11/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:0ms" x="76" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>17/11/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:0ms" x="76" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>18/11/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:0ms" x="76" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>19/11/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:0ms" x="76" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>20/11/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:0ms" x="76" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>21/11/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:0ms" x="76" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>22/11/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:18ms" x="92" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>23/11/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:18ms" x="92" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>24/11/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:18ms" x="92" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>25/11/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:18ms" x="92" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>26/11/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:18ms" x="92" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>27/11/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:18ms" x="92" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>28/11/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:18ms" x="92" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>29/11/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:36ms" x="108" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>30/11/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:36ms" x="108" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>01/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:36ms" x="108" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>02/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:36ms" x="108" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>03/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:36ms" x="108" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>04/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:36ms" x="108" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>05/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:36ms" x="108" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>06/12/2025: 0 commits</title></rect>
+<text x="124" y="140" font-size="11" fill="#6e6e73">dez</text>
+<rect class="c" style="animation-delay:54ms" x="124" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>07/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:54ms" x="124" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>08/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:54ms" x="124" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>09/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:54ms" x="124" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>10/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:54ms" x="124" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>11/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:54ms" x="124" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>12/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:54ms" x="124" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>13/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:72ms" x="140" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>14/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:72ms" x="140" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>15/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:72ms" x="140" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>16/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:72ms" x="140" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>17/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:72ms" x="140" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>18/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:72ms" x="140" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>19/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:72ms" x="140" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>20/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:90ms" x="156" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>21/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:90ms" x="156" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>22/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:90ms" x="156" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>23/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:90ms" x="156" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>24/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:90ms" x="156" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>25/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:90ms" x="156" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>26/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:90ms" x="156" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>27/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:108ms" x="172" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>28/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:108ms" x="172" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>29/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:108ms" x="172" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>30/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:108ms" x="172" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>31/12/2025: 0 commits</title></rect>
+<rect class="c" style="animation-delay:108ms" x="172" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>01/01/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:108ms" x="172" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>02/01/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:108ms" x="172" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>03/01/2026: 0 commits</title></rect>
+<text x="188" y="140" font-size="11" fill="#6e6e73">jan</text>
+<rect class="c" style="animation-delay:126ms" x="188" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>04/01/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:126ms" x="188" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>05/01/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:126ms" x="188" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>06/01/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:126ms" x="188" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>07/01/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:126ms" x="188" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>08/01/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:126ms" x="188" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>09/01/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:126ms" x="188" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>10/01/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:144ms" x="204" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>11/01/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:144ms" x="204" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>12/01/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:144ms" x="204" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>13/01/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:144ms" x="204" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>14/01/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:144ms" x="204" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>15/01/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:144ms" x="204" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>16/01/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:144ms" x="204" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>17/01/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:162ms" x="220" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>18/01/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:162ms" x="220" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>19/01/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:162ms" x="220" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>20/01/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:162ms" x="220" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>21/01/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:162ms" x="220" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>22/01/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:162ms" x="220" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>23/01/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:162ms" x="220" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>24/01/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:180ms" x="236" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>25/01/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:180ms" x="236" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>26/01/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:180ms" x="236" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>27/01/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:180ms" x="236" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>28/01/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:180ms" x="236" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>29/01/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:180ms" x="236" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>30/01/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:180ms" x="236" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>31/01/2026: 0 commits</title></rect>
+<text x="252" y="140" font-size="11" fill="#6e6e73">fev</text>
+<rect class="c" style="animation-delay:198ms" x="252" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>01/02/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:198ms" x="252" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>02/02/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:198ms" x="252" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>03/02/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:198ms" x="252" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>04/02/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:198ms" x="252" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>05/02/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:198ms" x="252" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>06/02/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:198ms" x="252" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>07/02/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:216ms" x="268" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>08/02/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:216ms" x="268" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>09/02/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:216ms" x="268" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>10/02/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:216ms" x="268" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>11/02/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:216ms" x="268" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>12/02/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:216ms" x="268" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>13/02/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:216ms" x="268" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>14/02/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:234ms" x="284" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>15/02/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:234ms" x="284" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>16/02/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:234ms" x="284" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>17/02/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:234ms" x="284" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>18/02/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:234ms" x="284" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>19/02/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:234ms" x="284" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>20/02/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:234ms" x="284" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>21/02/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:252ms" x="300" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>22/02/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:252ms" x="300" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>23/02/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:252ms" x="300" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>24/02/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:252ms" x="300" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>25/02/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:252ms" x="300" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>26/02/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:252ms" x="300" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>27/02/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:252ms" x="300" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>28/02/2026: 0 commits</title></rect>
+<text x="316" y="140" font-size="11" fill="#6e6e73">mar</text>
+<rect class="c" style="animation-delay:270ms" x="316" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>01/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:270ms" x="316" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>02/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:270ms" x="316" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>03/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:270ms" x="316" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>04/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:270ms" x="316" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>05/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:270ms" x="316" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>06/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:270ms" x="316" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>07/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:288ms" x="332" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>08/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:288ms" x="332" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>09/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:288ms" x="332" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>10/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:288ms" x="332" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>11/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:288ms" x="332" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>12/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:288ms" x="332" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>13/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:288ms" x="332" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>14/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:306ms" x="348" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>15/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:306ms" x="348" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>16/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:306ms" x="348" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>17/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:306ms" x="348" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>18/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:306ms" x="348" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>19/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:306ms" x="348" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>20/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:306ms" x="348" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>21/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:324ms" x="364" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>22/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:324ms" x="364" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>23/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:324ms" x="364" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>24/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:324ms" x="364" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>25/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:324ms" x="364" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>26/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:324ms" x="364" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>27/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:324ms" x="364" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>28/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:342ms" x="380" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>29/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:342ms" x="380" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>30/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:342ms" x="380" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>31/03/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:342ms" x="380" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>01/04/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:342ms" x="380" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>02/04/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:342ms" x="380" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>03/04/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:342ms" x="380" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>04/04/2026: 0 commits</title></rect>
+<text x="396" y="140" font-size="11" fill="#6e6e73">abr</text>
+<rect class="c" style="animation-delay:360ms" x="396" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>05/04/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:360ms" x="396" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>06/04/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:360ms" x="396" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>07/04/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:360ms" x="396" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>08/04/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:360ms" x="396" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>09/04/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:360ms" x="396" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>10/04/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:360ms" x="396" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>11/04/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:378ms" x="412" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>12/04/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:378ms" x="412" y="164" width="13" height="13" rx="3" fill="#ff5b24"><title>13/04/2026: 97 commits</title></rect>
+<rect class="c" style="animation-delay:378ms" x="412" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>14/04/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:378ms" x="412" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>15/04/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:378ms" x="412" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>16/04/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:378ms" x="412" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>17/04/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:378ms" x="412" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>18/04/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:396ms" x="428" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>19/04/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:396ms" x="428" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>20/04/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:396ms" x="428" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>21/04/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:396ms" x="428" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>22/04/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:396ms" x="428" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>23/04/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:396ms" x="428" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>24/04/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:396ms" x="428" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>25/04/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:414ms" x="444" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>26/04/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:414ms" x="444" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>27/04/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:414ms" x="444" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>28/04/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:414ms" x="444" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>29/04/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:414ms" x="444" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>30/04/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:414ms" x="444" y="228" width="13" height="13" rx="3" fill="#ffa480"><title>01/05/2026: 17 commits</title></rect>
+<rect class="c" style="animation-delay:414ms" x="444" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>02/05/2026: 0 commits</title></rect>
+<text x="460" y="140" font-size="11" fill="#6e6e73">mai</text>
+<rect class="c" style="animation-delay:432ms" x="460" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>03/05/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:432ms" x="460" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>04/05/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:432ms" x="460" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>05/05/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:432ms" x="460" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>06/05/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:432ms" x="460" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>07/05/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:432ms" x="460" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>08/05/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:432ms" x="460" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>09/05/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:450ms" x="476" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>10/05/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:450ms" x="476" y="164" width="13" height="13" rx="3" fill="#ffd4c4"><title>11/05/2026: 3 commits</title></rect>
+<rect class="c" style="animation-delay:450ms" x="476" y="180" width="13" height="13" rx="3" fill="#ffa480"><title>12/05/2026: 32 commits</title></rect>
+<rect class="c" style="animation-delay:450ms" x="476" y="196" width="13" height="13" rx="3" fill="#ffa480"><title>13/05/2026: 15 commits</title></rect>
+<rect class="c" style="animation-delay:450ms" x="476" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>14/05/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:450ms" x="476" y="228" width="13" height="13" rx="3" fill="#ff7b4b"><title>15/05/2026: 43 commits</title></rect>
+<rect class="c" style="animation-delay:450ms" x="476" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>16/05/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:468ms" x="492" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>17/05/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:468ms" x="492" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>18/05/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:468ms" x="492" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>19/05/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:468ms" x="492" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>20/05/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:468ms" x="492" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>21/05/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:468ms" x="492" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>22/05/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:468ms" x="492" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>23/05/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:486ms" x="508" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>24/05/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:486ms" x="508" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>25/05/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:486ms" x="508" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>26/05/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:486ms" x="508" y="196" width="13" height="13" rx="3" fill="#ffd4c4"><title>27/05/2026: 1 commit</title></rect>
+<rect class="c" style="animation-delay:486ms" x="508" y="212" width="13" height="13" rx="3" fill="#ffd4c4"><title>28/05/2026: 2 commits</title></rect>
+<rect class="c" style="animation-delay:486ms" x="508" y="228" width="13" height="13" rx="3" fill="#ffd4c4"><title>29/05/2026: 11 commits</title></rect>
+<rect class="c" style="animation-delay:486ms" x="508" y="244" width="13" height="13" rx="3" fill="#ffd4c4"><title>30/05/2026: 7 commits</title></rect>
+<rect class="c" style="animation-delay:504ms" x="524" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>31/05/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:504ms" x="524" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>01/06/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:504ms" x="524" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>02/06/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:504ms" x="524" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>03/06/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:504ms" x="524" y="212" width="13" height="13" rx="3" fill="#ffd4c4"><title>04/06/2026: 2 commits</title></rect>
+<rect class="c" style="animation-delay:504ms" x="524" y="228" width="13" height="13" rx="3" fill="#ffd4c4"><title>05/06/2026: 2 commits</title></rect>
+<rect class="c" style="animation-delay:504ms" x="524" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>06/06/2026: 0 commits</title></rect>
+<text x="540" y="140" font-size="11" fill="#6e6e73">jun</text>
+<rect class="c" style="animation-delay:522ms" x="540" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>07/06/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:522ms" x="540" y="164" width="13" height="13" rx="3" fill="#ffd4c4"><title>08/06/2026: 1 commit</title></rect>
+<rect class="c" style="animation-delay:522ms" x="540" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>09/06/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:522ms" x="540" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>10/06/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:522ms" x="540" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>11/06/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:522ms" x="540" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>12/06/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:522ms" x="540" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>13/06/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:540ms" x="556" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>14/06/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:540ms" x="556" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>15/06/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:540ms" x="556" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>16/06/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:540ms" x="556" y="196" width="13" height="13" rx="3" fill="#ffd4c4"><title>17/06/2026: 4 commits</title></rect>
+<rect class="c" style="animation-delay:540ms" x="556" y="212" width="13" height="13" rx="3" fill="#ffd4c4"><title>18/06/2026: 2 commits</title></rect>
+<rect class="c" style="animation-delay:540ms" x="556" y="228" width="13" height="13" rx="3" fill="#ffd4c4"><title>19/06/2026: 2 commits</title></rect>
+<rect class="c" style="animation-delay:540ms" x="556" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>20/06/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:558ms" x="572" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>21/06/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:558ms" x="572" y="164" width="13" height="13" rx="3" fill="#ffd4c4"><title>22/06/2026: 1 commit</title></rect>
+<rect class="c" style="animation-delay:558ms" x="572" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>23/06/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:558ms" x="572" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>24/06/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:558ms" x="572" y="212" width="13" height="13" rx="3" fill="#ffd4c4"><title>25/06/2026: 3 commits</title></rect>
+<rect class="c" style="animation-delay:558ms" x="572" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>26/06/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:558ms" x="572" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>27/06/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:576ms" x="588" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>28/06/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:576ms" x="588" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>29/06/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:576ms" x="588" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>30/06/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:576ms" x="588" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>01/07/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:576ms" x="588" y="212" width="13" height="13" rx="3" fill="#ffd4c4"><title>02/07/2026: 4 commits</title></rect>
+<rect class="c" style="animation-delay:576ms" x="588" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>03/07/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:576ms" x="588" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>04/07/2026: 0 commits</title></rect>
+<text x="604" y="140" font-size="11" fill="#6e6e73">jul</text>
+<rect class="c" style="animation-delay:594ms" x="604" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>05/07/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:594ms" x="604" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>06/07/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:594ms" x="604" y="180" width="13" height="13" rx="3" fill="#ffd4c4"><title>07/07/2026: 1 commit</title></rect>
+<rect class="c" style="animation-delay:594ms" x="604" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>08/07/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:594ms" x="604" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>09/07/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:594ms" x="604" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>10/07/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:594ms" x="604" y="244" width="13" height="13" rx="3" fill="#ffd4c4"><title>11/07/2026: 6 commits</title></rect>
+<rect class="c" style="animation-delay:612ms" x="620" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>12/07/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:612ms" x="620" y="164" width="13" height="13" rx="3" fill="#ffd4c4"><title>13/07/2026: 2 commits</title></rect>
+<rect class="c" style="animation-delay:612ms" x="620" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>14/07/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:612ms" x="620" y="196" width="13" height="13" rx="3" fill="#ffd4c4"><title>15/07/2026: 1 commit</title></rect>
+<rect class="c" style="animation-delay:612ms" x="620" y="212" width="13" height="13" rx="3" fill="#ffd4c4"><title>16/07/2026: 1 commit</title></rect>
+<rect class="c" style="animation-delay:612ms" x="620" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>17/07/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:612ms" x="620" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>18/07/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:630ms" x="636" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>19/07/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:630ms" x="636" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>20/07/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:630ms" x="636" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>21/07/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:630ms" x="636" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>22/07/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:630ms" x="636" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>23/07/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:630ms" x="636" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>24/07/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:630ms" x="636" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>25/07/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:648ms" x="652" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>26/07/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:648ms" x="652" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>27/07/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:648ms" x="652" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>28/07/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:648ms" x="652" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>29/07/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:648ms" x="652" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>30/07/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:648ms" x="652" y="228" width="13" height="13" rx="3" fill="#ffd4c4"><title>31/07/2026: 1 commit</title></rect>
+<rect class="c" style="animation-delay:648ms" x="652" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>01/08/2026: 0 commits</title></rect>
+<text x="668" y="140" font-size="11" fill="#6e6e73">ago</text>
+<rect class="c" style="animation-delay:666ms" x="668" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>02/08/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:666ms" x="668" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>03/08/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:666ms" x="668" y="180" width="13" height="13" rx="3" fill="#ffd4c4"><title>04/08/2026: 1 commit</title></rect>
+<rect class="c" style="animation-delay:666ms" x="668" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>05/08/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:666ms" x="668" y="212" width="13" height="13" rx="3" fill="#ffd4c4"><title>06/08/2026: 5 commits</title></rect>
+<rect class="c" style="animation-delay:666ms" x="668" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>07/08/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:666ms" x="668" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>08/08/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:684ms" x="684" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>09/08/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:684ms" x="684" y="164" width="13" height="13" rx="3" fill="#ffd4c4"><title>10/08/2026: 1 commit</title></rect>
+<rect class="c" style="animation-delay:684ms" x="684" y="180" width="13" height="13" rx="3" fill="#ffd4c4"><title>11/08/2026: 3 commits</title></rect>
+<rect class="c" style="animation-delay:684ms" x="684" y="196" width="13" height="13" rx="3" fill="#ffd4c4"><title>12/08/2026: 7 commits</title></rect>
+<rect class="c" style="animation-delay:684ms" x="684" y="212" width="13" height="13" rx="3" fill="#ffd4c4"><title>13/08/2026: 3 commits</title></rect>
+<rect class="c" style="animation-delay:684ms" x="684" y="228" width="13" height="13" rx="3" fill="#ffd4c4"><title>14/08/2026: 8 commits</title></rect>
+<rect class="c" style="animation-delay:684ms" x="684" y="244" width="13" height="13" rx="3" fill="#ffd4c4"><title>15/08/2026: 5 commits</title></rect>
+<rect class="c" style="animation-delay:702ms" x="700" y="148" width="13" height="13" rx="3" fill="#ffd4c4"><title>16/08/2026: 4 commits</title></rect>
+<rect class="c" style="animation-delay:702ms" x="700" y="164" width="13" height="13" rx="3" fill="#ffd4c4"><title>17/08/2026: 4 commits</title></rect>
+<rect class="c" style="animation-delay:702ms" x="700" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>18/08/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:702ms" x="700" y="196" width="13" height="13" rx="3" fill="#ffd4c4"><title>19/08/2026: 1 commit</title></rect>
+<rect class="c" style="animation-delay:702ms" x="700" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>20/08/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:702ms" x="700" y="228" width="13" height="13" rx="3" fill="#ffd4c4"><title>21/08/2026: 4 commits</title></rect>
+<rect class="c" style="animation-delay:702ms" x="700" y="244" width="13" height="13" rx="3" fill="#ffd4c4"><title>22/08/2026: 1 commit</title></rect>
+<rect class="c" style="animation-delay:720ms" x="716" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>23/08/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:720ms" x="716" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>24/08/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:720ms" x="716" y="180" width="13" height="13" rx="3" fill="#ffd4c4"><title>25/08/2026: 5 commits</title></rect>
+<rect class="c" style="animation-delay:720ms" x="716" y="196" width="13" height="13" rx="3" fill="#ffd4c4"><title>26/08/2026: 3 commits</title></rect>
+<rect class="c" style="animation-delay:720ms" x="716" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>27/08/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:720ms" x="716" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>28/08/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:720ms" x="716" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>29/08/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:738ms" x="732" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>30/08/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:738ms" x="732" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>31/08/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:738ms" x="732" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>01/09/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:738ms" x="732" y="196" width="13" height="13" rx="3" fill="#ebebef"><title>02/09/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:738ms" x="732" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>03/09/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:738ms" x="732" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>04/09/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:738ms" x="732" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>05/09/2026: 0 commits</title></rect>
+<text x="748" y="140" font-size="11" fill="#6e6e73">set</text>
+<rect class="c" style="animation-delay:756ms" x="748" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>06/09/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:756ms" x="748" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>07/09/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:756ms" x="748" y="180" width="13" height="13" rx="3" fill="#ffd4c4"><title>08/09/2026: 1 commit</title></rect>
+<rect class="c" style="animation-delay:756ms" x="748" y="196" width="13" height="13" rx="3" fill="#ffd4c4"><title>09/09/2026: 2 commits</title></rect>
+<rect class="c" style="animation-delay:756ms" x="748" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>10/09/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:756ms" x="748" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>11/09/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:756ms" x="748" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>12/09/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:774ms" x="764" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>13/09/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:774ms" x="764" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>14/09/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:774ms" x="764" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>15/09/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:774ms" x="764" y="196" width="13" height="13" rx="3" fill="#ffd4c4"><title>16/09/2026: 10 commits</title></rect>
+<rect class="c" style="animation-delay:774ms" x="764" y="212" width="13" height="13" rx="3" fill="#ffd4c4"><title>17/09/2026: 2 commits</title></rect>
+<rect class="c" style="animation-delay:774ms" x="764" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>18/09/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:774ms" x="764" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>19/09/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:792ms" x="780" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>20/09/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:792ms" x="780" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>21/09/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:792ms" x="780" y="180" width="13" height="13" rx="3" fill="#ffd4c4"><title>22/09/2026: 1 commit</title></rect>
+<rect class="c" style="animation-delay:792ms" x="780" y="196" width="13" height="13" rx="3" fill="#ffd4c4"><title>23/09/2026: 2 commits</title></rect>
+<rect class="c" style="animation-delay:792ms" x="780" y="212" width="13" height="13" rx="3" fill="#ebebef"><title>24/09/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:792ms" x="780" y="228" width="13" height="13" rx="3" fill="#ebebef"><title>25/09/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:792ms" x="780" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>26/09/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:810ms" x="796" y="148" width="13" height="13" rx="3" fill="#ebebef"><title>27/09/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:810ms" x="796" y="164" width="13" height="13" rx="3" fill="#ebebef"><title>28/09/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:810ms" x="796" y="180" width="13" height="13" rx="3" fill="#ebebef"><title>29/09/2026: 0 commits</title></rect>
+<rect class="c" style="animation-delay:810ms" x="796" y="196" width="13" height="13" rx="3" fill="#ffd4c4"><title>30/09/2026: 7 commits</title></rect>
+<rect class="c" style="animation-delay:810ms" x="796" y="212" width="13" height="13" rx="3" fill="#ffd4c4"><title>01/10/2026: 12 commits</title></rect>
+<rect class="c" style="animation-delay:810ms" x="796" y="228" width="13" height="13" rx="3" fill="#ffa480"><title>02/10/2026: 17 commits</title></rect>
+<rect class="c" style="animation-delay:810ms" x="796" y="244" width="13" height="13" rx="3" fill="#ebebef"><title>03/10/2026: 0 commits</title></rect>
+<text x="812" y="140" font-size="11" fill="#6e6e73">out</text>
+<rect class="c" style="animation-delay:828ms" x="812" y="148" width="13" height="13" rx="3" fill="#ffd4c4"><title>04/10/2026: 6 commits</title></rect>
+<rect class="c" style="animation-delay:828ms" x="812" y="164" width="13" height="13" rx="3" fill="#ffa480"><title>05/10/2026: 15 commits</title></rect>
+<rect class="c" style="animation-delay:828ms" x="812" y="180" width="13" height="13" rx="3" fill="#ffd4c4"><title>06/10/2026: 13 commits</title></rect>
+<rect class="c" style="animation-delay:828ms" x="812" y="196" width="13" height="13" rx="3" fill="#ffd4c4"><title>07/10/2026: 11 commits</title></rect>
+<rect class="c" style="animation-delay:828ms" x="812" y="212" width="13" height="13" rx="3" fill="#ffd4c4"><title>08/10/2026: 12 commits</title></rect>
+<rect class="c" style="animation-delay:828ms" x="812" y="228" width="13" height="13" rx="3" fill="#ffa480"><title>09/10/2026: 15 commits</title></rect>
+<rect class="c" style="animation-delay:828ms" x="812" y="244" width="13" height="13" rx="3" fill="#ffd4c4"><title>10/10/2026: 9 commits</title></rect>
+<rect class="c" style="animation-delay:846ms" x="828" y="148" width="13" height="13" rx="3" fill="#ffa480"><title>11/10/2026: 17 commits</title></rect>
+<rect class="c" style="animation-delay:846ms" x="828" y="164" width="13" height="13" rx="3" fill="#ffa480"><title>12/10/2026: 17 commits</title></rect>
+<rect class="c" style="animation-delay:846ms" x="828" y="180" width="13" height="13" rx="3" fill="#ffa480"><title>13/10/2026: 18 commits</title></rect>
+<rect class="c" style="animation-delay:846ms" x="828" y="196" width="13" height="13" rx="3" fill="#ffa480"><title>14/10/2026: 21 commits</title></rect>
+<rect class="c" style="animation-delay:846ms" x="828" y="212" width="13" height="13" rx="3" fill="#ffa480"><title>15/10/2026: 32 commits</title></rect>
+<rect class="c" style="animation-delay:846ms" x="828" y="228" width="13" height="13" rx="3" fill="#ffd4c4"><title>16/10/2026: 14 commits</title></rect>
+<rect class="c" style="animation-delay:846ms" x="828" y="244" width="13" height="13" rx="3" fill="#ffd4c4"><title>17/10/2026: 9 commits</title></rect>
+<rect class="c" style="animation-delay:864ms" x="844" y="148" width="13" height="13" rx="3" fill="#ffd4c4"><title>18/10/2026: 11 commits</title></rect>
+<rect class="c" style="animation-delay:864ms" x="844" y="164" width="13" height="13" rx="3" fill="#ffa480"><title>19/10/2026: 16 commits</title></rect>
+<rect class="c" style="animation-delay:864ms" x="844" y="180" width="13" height="13" rx="3" fill="#ffa480"><title>20/10/2026: 27 commits</title></rect>
+<rect class="c" style="animation-delay:864ms" x="844" y="196" width="13" height="13" rx="3" fill="#ffa480"><title>21/10/2026: 21 commits</title></rect>
+<rect class="c" style="animation-delay:864ms" x="844" y="212" width="13" height="13" rx="3" fill="#ffa480"><title>22/10/2026: 18 commits</title></rect>
+<rect class="c" style="animation-delay:864ms" x="844" y="228" width="13" height="13" rx="3" fill="#ffd4c4"><title>23/10/2026: 9 commits</title></rect>
+<rect class="c" style="animation-delay:864ms" x="844" y="244" width="13" height="13" rx="3" fill="#ffd4c4"><title>24/10/2026: 8 commits</title></rect>
+<rect class="c" style="animation-delay:882ms" x="860" y="148" width="13" height="13" rx="3" fill="#ffa480"><title>25/10/2026: 24 commits</title></rect>
+<rect class="c" style="animation-delay:882ms" x="860" y="164" width="13" height="13" rx="3" fill="#ffa480"><title>26/10/2026: 21 commits</title></rect>
+<rect class="c" style="animation-delay:882ms" x="860" y="180" width="13" height="13" rx="3" fill="#ffa480"><title>27/10/2026: 24 commits</title></rect>
+<rect class="c" style="animation-delay:882ms" x="860" y="196" width="13" height="13" rx="3" fill="#ffa480"><title>28/10/2026: 15 commits</title></rect>
+<rect class="c" style="animation-delay:882ms" x="860" y="212" width="13" height="13" rx="3" fill="#ffa480"><title>29/10/2026: 19 commits</title></rect>
+<rect class="c" style="animation-delay:882ms" x="860" y="228" width="13" height="13" rx="3" fill="#ffa480"><title>30/10/2026: 19 commits</title></rect>
+<rect class="c" style="animation-delay:882ms" x="860" y="244" width="13" height="13" rx="3" fill="#ffa480"><title>31/10/2026: 17 commits</title></rect>
+<text x="876" y="140" font-size="11" fill="#6e6e73">nov</text>
+<rect class="c" style="animation-delay:900ms" x="876" y="148" width="13" height="13" rx="3" fill="#ffa480"><title>01/11/2026: 26 commits</title></rect>
+<rect class="c" style="animation-delay:900ms" x="876" y="164" width="13" height="13" rx="3" fill="#ffa480"><title>02/11/2026: 33 commits</title></rect>
+<rect class="c" style="animation-delay:900ms" x="876" y="180" width="13" height="13" rx="3" fill="#ff7b4b"><title>03/11/2026: 36 commits</title></rect>
+<rect class="c" style="animation-delay:900ms" x="876" y="196" width="13" height="13" rx="3" fill="#ffa480"><title>04/11/2026: 32 commits</title></rect>
+<rect class="c" style="animation-delay:900ms" x="876" y="212" width="13" height="13" rx="3" fill="#ffa480"><title>05/11/2026: 30 commits</title></rect>
+<rect class="c" style="animation-delay:900ms" x="876" y="228" width="13" height="13" rx="3" fill="#ffd4c4"><title>06/11/2026: 14 commits</title></rect>
+<rect class="c" style="animation-delay:900ms" x="876" y="244" width="13" height="13" rx="3" fill="#ffd4c4"><title>07/11/2026: 12 commits</title></rect>
+<rect class="c" style="animation-delay:918ms" x="892" y="148" width="13" height="13" rx="3" fill="#ffa480"><title>08/11/2026: 22 commits</title></rect>
+<rect class="c" style="animation-delay:918ms" x="892" y="164" width="13" height="13" rx="3" fill="#ff5b24"><title>09/11/2026: 74 commits</title></rect>
+<rect class="c" style="animation-delay:918ms" x="892" y="180" width="13" height="13" rx="3" fill="#ff7b4b"><title>10/11/2026: 41 commits</title></rect>
+<rect class="c" style="animation-delay:918ms" x="892" y="196" width="13" height="13" rx="3" fill="#ff7b4b"><title>11/11/2026: 42 commits</title></rect>
+<rect class="c" style="animation-delay:918ms" x="892" y="212" width="13" height="13" rx="3" fill="#ff7b4b"><title>12/11/2026: 48 commits</title></rect>
+<rect class="c" style="animation-delay:918ms" x="892" y="228" width="13" height="13" rx="3" fill="#ffd4c4"><title>13/11/2026: 12 commits</title></rect>
+<rect class="c" style="animation-delay:918ms" x="892" y="244" width="13" height="13" rx="3" fill="#ffa480"><title>14/11/2026: 25 commits</title></rect>
+<rect class="c" style="animation-delay:936ms" x="908" y="148" width="13" height="13" rx="3" fill="#ffa480"><title>15/11/2026: 15 commits</title></rect>
+<text x="44" y="174" font-size="11" fill="#6e6e73">seg</text>
+<text x="44" y="206" font-size="11" fill="#6e6e73">qua</text>
+<text x="44" y="238" font-size="11" fill="#6e6e73">sex</text>
+<text x="834" y="284" font-size="11" fill="#6e6e73" text-anchor="end">menos</text>
+<rect x="842" y="274" width="12" height="12" rx="3" fill="#ebebef"/>
+<rect x="858" y="274" width="12" height="12" rx="3" fill="#ffd4c4"/>
+<rect x="874" y="274" width="12" height="12" rx="3" fill="#ffa480"/>
+<rect x="890" y="274" width="12" height="12" rx="3" fill="#ff7b4b"/>
+<rect x="906" y="274" width="12" height="12" rx="3" fill="#ff5b24"/>
+<text x="926" y="284" font-size="11" fill="#6e6e73">mais</text>
+<rect x="24.0" y="314" width="306.7" height="238" rx="14" fill="#f5f5f7"/>
+<text x="44.0" y="344" font-size="14" font-weight="600" fill="#111111">Commits por mês</text>
+<rect class="b" style="animation-delay:0ms" x="47.0" y="515.0" width="16.2" height="3.0" rx="4" fill="#ebebef"><title>dez/2025: 0 commits</title></rect>
+<text x="55.1" y="536" font-size="10" fill="#6e6e73" text-anchor="middle">D</text>
+<rect class="b" style="animation-delay:60ms" x="69.2" y="515.0" width="16.2" height="3.0" rx="4" fill="#ebebef"><title>jan/2026: 0 commits</title></rect>
+<text x="77.3" y="536" font-size="10" fill="#6e6e73" text-anchor="middle">J</text>
+<rect class="b" style="animation-delay:120ms" x="91.4" y="515.0" width="16.2" height="3.0" rx="4" fill="#ebebef"><title>fev/2026: 0 commits</title></rect>
+<text x="99.6" y="536" font-size="10" fill="#6e6e73" text-anchor="middle">F</text>
+<rect class="b" style="animation-delay:180ms" x="113.7" y="515.0" width="16.2" height="3.0" rx="4" fill="#ebebef"><title>mar/2026: 0 commits</title></rect>
+<text x="121.8" y="536" font-size="10" fill="#6e6e73" text-anchor="middle">M</text>
+<rect class="b" style="animation-delay:240ms" x="135.9" y="494.5" width="16.2" height="23.5" rx="4" fill="#ffa480"><title>abr/2026: 97 commits</title></rect>
+<text x="144.0" y="536" font-size="10" fill="#6e6e73" text-anchor="middle">A</text>
+<rect class="b" style="animation-delay:300ms" x="158.1" y="486.3" width="16.2" height="31.7" rx="4" fill="#ffa480"><title>mai/2026: 131 commits</title></rect>
+<text x="166.2" y="536" font-size="10" fill="#6e6e73" text-anchor="middle">M</text>
+<rect class="b" style="animation-delay:360ms" x="180.3" y="513.9" width="16.2" height="4.1" rx="4" fill="#ffa480"><title>jun/2026: 17 commits</title></rect>
+<text x="188.4" y="536" font-size="10" fill="#6e6e73" text-anchor="middle">J</text>
+<rect class="b" style="animation-delay:420ms" x="202.6" y="514.1" width="16.2" height="3.9" rx="4" fill="#ffa480"><title>jul/2026: 16 commits</title></rect>
+<text x="210.7" y="536" font-size="10" fill="#6e6e73" text-anchor="middle">J</text>
+<rect class="b" style="animation-delay:480ms" x="224.8" y="504.7" width="16.2" height="13.3" rx="4" fill="#ffa480"><title>ago/2026: 55 commits</title></rect>
+<text x="232.9" y="536" font-size="10" fill="#6e6e73" text-anchor="middle">A</text>
+<rect class="b" style="animation-delay:540ms" x="247.0" y="511.9" width="16.2" height="6.1" rx="4" fill="#ffa480"><title>set/2026: 25 commits</title></rect>
+<text x="255.1" y="536" font-size="10" fill="#6e6e73" text-anchor="middle">S</text>
+<rect class="b" style="animation-delay:600ms" x="269.2" y="400.0" width="16.2" height="118.0" rx="4" fill="#ff7b4b"><title>out/2026: 487 commits</title></rect>
+<text x="277.3" y="536" font-size="10" fill="#6e6e73" text-anchor="middle">O</text>
+<text x="277.3" y="394.0" font-size="11" font-weight="600" fill="#111111" text-anchor="middle">487</text>
+<rect class="b" style="animation-delay:660ms" x="291.4" y="406.1" width="16.2" height="111.9" rx="4" fill="#ff5b24"><title>nov/2026: 462 commits</title></rect>
+<text x="299.6" y="536" font-size="10" fill="#6e6e73" text-anchor="middle">N</text>
+<text x="299.6" y="400.1" font-size="11" font-weight="600" fill="#111111" text-anchor="middle">462</text>
+<rect x="346.7" y="314" width="306.7" height="238" rx="14" fill="#f5f5f7"/>
+<text x="366.7" y="344" font-size="14" font-weight="600" fill="#111111">Linguagens nos projetos</text>
+<circle cx="424.7" cy="444" r="52" fill="none" stroke="#ebebef" stroke-width="20"/>
+<circle class="r" style="animation-delay:0ms;stroke-dasharray:145.9 326.7" cx="424.7" cy="444" r="52" fill="none" stroke="#f1e05a" stroke-width="20" stroke-dashoffset="0.0" transform="rotate(-90 424.7 444)"><title>JavaScript: 45%</title></circle>
+<circle class="r" style="animation-delay:120ms;stroke-dasharray:128.7 326.7" cx="424.7" cy="444" r="52" fill="none" stroke="#3178c6" stroke-width="20" stroke-dashoffset="-145.9" transform="rotate(-90 424.7 444)"><title>TypeScript: 39%</title></circle>
+<circle class="r" style="animation-delay:240ms;stroke-dasharray:42.7 326.7" cx="424.7" cy="444" r="52" fill="none" stroke="#e34c26" stroke-width="20" stroke-dashoffset="-274.6" transform="rotate(-90 424.7 444)"><title>HTML: 13%</title></circle>
+<circle class="r" style="animation-delay:360ms;stroke-dasharray:6.6 326.7" cx="424.7" cy="444" r="52" fill="none" stroke="#663399" stroke-width="20" stroke-dashoffset="-317.3" transform="rotate(-90 424.7 444)"><title>CSS: 2%</title></circle>
+<circle class="r" style="animation-delay:480ms;stroke-dasharray:2.9 326.7" cx="424.7" cy="444" r="52" fill="none" stroke="#3572A5" stroke-width="20" stroke-dashoffset="-323.9" transform="rotate(-90 424.7 444)"><title>Python: 1%</title></circle>
+<text x="424.7" y="449" font-size="15" font-weight="700" fill="#111111" text-anchor="middle">7</text>
+<text x="424.7" y="464" font-size="9" fill="#6e6e73" text-anchor="middle">linguagens</text>
+<circle cx="504.6666666666667" cy="376" r="5" fill="#f1e05a"/>
+<text x="516.6666666666667" y="380" font-size="12" fill="#111111">JavaScript</text>
+<text x="633.3" y="380" font-size="12" fill="#6e6e73" text-anchor="end">45%</text>
+<circle cx="504.6666666666667" cy="400" r="5" fill="#3178c6"/>
+<text x="516.6666666666667" y="404" font-size="12" fill="#111111">TypeScript</text>
+<text x="633.3" y="404" font-size="12" fill="#6e6e73" text-anchor="end">39%</text>
+<circle cx="504.6666666666667" cy="424" r="5" fill="#e34c26"/>
+<text x="516.6666666666667" y="428" font-size="12" fill="#111111">HTML</text>
+<text x="633.3" y="428" font-size="12" fill="#6e6e73" text-anchor="end">13%</text>
+<circle cx="504.6666666666667" cy="448" r="5" fill="#663399"/>
+<text x="516.6666666666667" y="452" font-size="12" fill="#111111">CSS</text>
+<text x="633.3" y="452" font-size="12" fill="#6e6e73" text-anchor="end">2%</text>
+<circle cx="504.6666666666667" cy="472" r="5" fill="#3572A5"/>
+<text x="516.6666666666667" y="476" font-size="12" fill="#111111">Python</text>
+<text x="633.3" y="476" font-size="12" fill="#6e6e73" text-anchor="end">1%</text>
+<rect x="669.3" y="314" width="306.7" height="238" rx="14" fill="#f5f5f7"/>
+<text x="689.3" y="344" font-size="14" font-weight="600" fill="#111111">Repositórios</text>
+<text x="689.3" y="392" font-size="38" font-weight="700" fill="#111111">19</text>
+<text x="737.3" y="392" font-size="12" fill="#6e6e73">9 públicos · 10 privados</text>
+<rect x="689.3" y="408" width="266.7" height="10" rx="5" fill="#ebebef"/>
+<rect class="h" x="689.3" y="408" width="126.3" height="10" rx="5" fill="#ff5b24"/>
+<text x="689.3" y="450" font-size="11" fill="#6e6e73">Públicos mexidos por último</text>
+<circle cx="695.3" cy="464" r="5" fill="#e34c26"/>
+<text x="707.3" y="468" font-size="12" fill="#111111">termoinfinito</text>
+<circle cx="695.3" cy="485" r="5" fill="#3178c6"/>
+<text x="707.3" y="489" font-size="12" fill="#111111">ares-zap</text>
+<circle cx="695.3" cy="506" r="5" fill="#f1e05a"/>
+<text x="707.3" y="510" font-size="12" fill="#111111">ares-studio</text>
+<text x="689.3" y="538" font-size="12" fill="#6e6e73"><tspan fill="#ff5b24">★</tspan> 0 estrelas · 7 seguidores</text>
+</svg>

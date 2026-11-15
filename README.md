@@ -4,6 +4,12 @@ Marketing Automation Manager no Grupo Experience · 22 anos · Feira de Santana,
 
 Cuido da automação de SMS e push de uma linha de receita de e-commerce. Quando um processo vive em planilha ou em copiar e colar, escrevo um programa para ele.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dash/escuro.svg">
+  <source media="(prefers-color-scheme: light)" srcset="dash/claro.svg">
+  <img alt="Dash de atividade no GitHub: commits por dia e por mês, linguagens e repositórios" src="dash/escuro.svg" width="100%">
+</picture>
+
 **O que faço**
 - Ferramentas internas: painéis, apps de mesa e sistemas web que a operação usa todo dia
 - Agentes de IA que checam os fluxos, criam campanhas e conferem o trabalho uns dos outros
